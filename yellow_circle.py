@@ -5,8 +5,6 @@ from PyQt6.QtGui import QPainter, QColor, QPolygon
 import sys
 import random
 
-SCREEN_SIZE = [680, 480]
-
 
 class Circle(QMainWindow):
     def __init__(self):
